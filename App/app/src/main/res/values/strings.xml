@@ -10,4 +10,15 @@
     <string name="verb">Verb</string>
     <string name="body_part">Body part</string>
     <string name="adjective">Adjective</string>
+    <string name="mad_libs">MAD LIBS</string>
+    <string name="text_title">The Magic Computers</string>
+    <string name="string_1">Today, every student has a computer small enough to fit into his </string>
+    <string name="string_2">. He can solve any math problem by simply pushing the computer\'s little </string>
+    <string name="string_3">. Computers can add, multiply, divide, and </string>
+    <string name="string_4">. They can also </string>
+    <string name="string_5"> better than a human. Some computers are </string>
+    <string name="string_6">. Others have a/an </string>
+    <string name="string_7"> screen that shows all kinds of </string>
+    <string name="string_8"> and </string>
+    <string name="string_9"> figures.</string>
 </resources>
