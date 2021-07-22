@@ -2,7 +2,7 @@
     <string name="app_name">madLibs</string>
     <string name="enter_a_noun">Enter a noun:</string>
     <string name="enter_a_plural_noun">Enter a plural noun:</string>
-    <string name="enter_a_part_of_the_body">Enter a part of the body:</string>
+    <string name="enter_a_part_of_the_body">Enter a part of the body (plural):</string>
     <string name="enter_a_verb_present_tense">Enter a verb (present tense):</string>
     <string name="enter_an_adjective">Enter an adjective:</string>
     <string name="go">GO</string>
