@@ -1,0 +1,2 @@
+rootProject.name = "madLibs"
+include ':app'
